@@ -1,0 +1,17 @@
+.fa {
+  padding: 10px;
+  text-align: center;
+  margin: 1px 1px;
+  font-size: 20px;
+  width: 40px;
+  }
+  
+  .fa-thumbs-up,.fa-dollar,.fa-headphones,.fa-facebook,.fa-twitter,.fa-instagram,.fa-linkedin{
+    background:orange;
+    color: white;
+  }
+
+  .fa-instagram:hover,.fa-facebook:hover,.fa-thumbs-up:hover,.fa-twitter:hover,.fa-linkedin:hover,.fa-dollar:hover,.fa-headphones:hover{
+   background: white;
+   color: orange;
+  }
